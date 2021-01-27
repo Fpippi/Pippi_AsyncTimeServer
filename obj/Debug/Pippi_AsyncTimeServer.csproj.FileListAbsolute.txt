@@ -1,0 +1,17 @@
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\bin\Debug\Pippi_AsyncTimeServer.exe.config
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\bin\Debug\Pippi_AsyncTimeServer.exe
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\bin\Debug\Pippi_AsyncTimeServer.pdb
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\bin\Debug\Pippi_SocketAsyncLib.dll
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\bin\Debug\Pippi_SocketAsyncLib.pdb
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\obj\Debug\Pippi_AsyncTimeServer.csprojAssemblyReference.cache
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\obj\Debug\MainWindow.g.cs
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\obj\Debug\App.g.cs
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\obj\Debug\Pippi_AsyncTimeServer_MarkupCompile.cache
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\obj\Debug\Pippi_AsyncTimeServer_MarkupCompile.lref
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\obj\Debug\MainWindow.baml
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\obj\Debug\Pippi_AsyncTimeServer.g.resources
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\obj\Debug\Pippi_AsyncTimeServer.Properties.Resources.resources
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\obj\Debug\Pippi_AsyncTimeServer.csproj.GenerateResource.cache
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\obj\Debug\Pippi_AsyncTimeServer.csproj.CopyComplete
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\obj\Debug\Pippi_AsyncTimeServer.exe
+C:\Users\Francesco\Desktop\Pippi_AsyncTimeServer\Pippi_AsyncTimeServer\obj\Debug\Pippi_AsyncTimeServer.pdb

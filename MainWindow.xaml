@@ -1,0 +1,14 @@
+﻿<Window x:Class="Pippi_AsyncTimeServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pippi_AsyncTimeServer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Btn_Ascolto" Content="Ricerca" HorizontalAlignment="Left" Margin="102,118,0,0" VerticalAlignment="Top" Width="124" Height="56" Click="Btn_Ascolto_Click"/>
+        <Button x:Name="btn_disconetti" Content="Disconetti" HorizontalAlignment="Left" Margin="102,246,0,0" VerticalAlignment="Top" Width="124" Height="60"/>
+
+    </Grid>
+</Window>
