@@ -32,16 +32,24 @@ namespace Pippi_AsyncTimeServer
 
         private void Btn_Ascolto_Click(object sender, RoutedEventArgs e)
         {
+            Btn_Ascolto.IsEnabled = false;
             mServer.InAscolto();
             System.Windows.Threading.DispatcherTimer dispatcherTimer = new System.Windows.Threading.DispatcherTimer();
             dispatcherTimer.Tick += new EventHandler(dispatcherTimer_Tick);
             dispatcherTimer.Interval = new TimeSpan(0, 0, 5);
             dispatcherTimer.Start();
+           
         }
 
         private void dispatcherTimer_Tick(object sender, EventArgs e)
         {
             mServer.inviaATutti();
+        }
+
+        private void btn_disconetti_Click(object sender, RoutedEventArgs e)
+        {
+            mServer.disconetti();
+            Btn_Ascolto.IsEnabled = true;
         }
     }
 }

@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="Btn_Ascolto" Content="Ricerca" HorizontalAlignment="Left" Margin="102,118,0,0" VerticalAlignment="Top" Width="124" Height="56" Click="Btn_Ascolto_Click"/>
-        <Button x:Name="btn_disconetti" Content="Disconetti" HorizontalAlignment="Left" Margin="102,246,0,0" VerticalAlignment="Top" Width="124" Height="60"/>
+        <Button x:Name="btn_disconetti" Content="Disconetti" HorizontalAlignment="Left" Margin="102,246,0,0" VerticalAlignment="Top" Width="124" Height="60" Click="btn_disconetti_Click"/>
 
     </Grid>
 </Window>
