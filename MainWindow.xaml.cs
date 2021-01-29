@@ -27,6 +27,7 @@ namespace Pippi_AsyncTimeServer
         {
             InitializeComponent();
             mServer = new TimeSocketServer();
+            btn_disconetti.IsEnabled = false;
         }
         
 
@@ -38,7 +39,8 @@ namespace Pippi_AsyncTimeServer
             dispatcherTimer.Tick += new EventHandler(dispatcherTimer_Tick);
             dispatcherTimer.Interval = new TimeSpan(0, 0, 5);
             dispatcherTimer.Start();
-           
+            btn_disconetti.IsEnabled = true;
+
         }
 
         private void dispatcherTimer_Tick(object sender, EventArgs e)
@@ -50,6 +52,7 @@ namespace Pippi_AsyncTimeServer
         {
             mServer.disconetti();
             Btn_Ascolto.IsEnabled = true;
+            btn_disconetti.IsEnabled = false;
         }
     }
 }
